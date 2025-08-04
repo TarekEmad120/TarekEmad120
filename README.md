@@ -125,50 +125,47 @@
 ## 🎯 Current Focus & Expertise
 
 <div align="center">
-  
-```javascript
-const tarekEmadEldin = {
-    name: "Tarek Emad Eldin Kotb Mohamed",
-    education: "Computer Engineering @ Cairo University",
-    location: "Cairo, Egypt 🇪🇬",
-    languages: ["Arabic (Native)", "English (Professional)", "German (Elementary)"],
-    
-    expertise: {
-        embeddedSystems: {
-            microcontrollers: ["ATmega32", "ATmega328p", "ATmega2560", "Tiva C ARM M4"],
-            protocols: ["UART", "I2C", "SPI", "CAN"],
-            drivers: ["GPIO", "Timer", "PWM", "ADC", "NVIC", "Systick"],
-            standards: ["AUTOSAR", "RTOS"]
-        },
-        
-        automotiveSystems: {
-            projects: ["ADAS Prototype", "Lane Departure Warning", "Blind Spot Detection"],
-            tools: ["Carla Simulator", "Hardware-in-Loop (HIL)", "Traffic Sign Recognition"],
-            focus: "Advanced Driver Assistance Systems"
-        },
-        
-        robotics: {
-            projects: ["Line Following Robot", "Game Playing Robot", "Door Locker Security"],
-            capabilities: ["Football", "Ball Collecting", "Maze Solving", "Distance Measuring"]
-        },
-        
-        programmingLanguages: ["C", "C++", "Embedded C", "Python", "C#", "Assembly x86"],
-        webDevelopment: ["React.js", "Node.js", "HTML/CSS", "JavaScript", "PHP"],
-        databases: ["MySQL", "MSSQL"],
-        
-        specialProjects: [
-            "Mini C Compiler (Flex & Bison)",
-            "Operating System Scheduler",
-            "Network Protocol Implementation",
-            "Computer Vision Game Controller"
-        ]
-    },
-    
-    currentGoals: "Building next-gen automotive systems and embedded solutions",
-    diploma: "Full Embedded Systems Diploma - Edges For Training",
-    funFact: "I can make robots play football and solve mazes! 🤖⚽"
-};
-```
+
+### 🚀 What I'm Working On
+<p>
+  <img src="https://img.shields.io/badge/🎯_Focus-ADAS_Development-FF6B35?style=for-the-badge" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/🤖_Specialty-Embedded_Systems-4CAF50?style=for-the-badge" alt="Specialty" />
+  <img src="https://img.shields.io/badge/🚗_Domain-Automotive_Electronics-2196F3?style=for-the-badge" alt="Domain" />
+</p>
+
+### 💻 Core Expertise Areas
+
+#### 🔧 Embedded Systems
+- **Microcontrollers:** ATmega32, ATmega328p, ATmega2560, Tiva C ARM M4
+- **Communication Protocols:** UART, I2C, SPI, CAN
+- **Driver Development:** GPIO, Timer, PWM, ADC, NVIC, Systick
+- **Standards:** AUTOSAR, RTOS
+
+#### 🚗 Automotive Systems
+- **ADAS Development:** Lane Departure Warning, Blind Spot Detection
+- **Simulation Tools:** Carla Simulator, Hardware-in-Loop (HIL)
+- **Computer Vision:** Traffic Sign Recognition, Driver Monitoring
+- **Focus Area:** Advanced Driver Assistance Systems
+
+#### 🤖 Robotics & Control
+- **Robot Projects:** Multi-Game Robot, Line Following, Door Security
+- **Capabilities:** Football Playing, Ball Collecting, Maze Solving
+- **Sensors:** Distance Measuring, IR Arrays, Computer Vision
+
+#### 💻 Software Development
+- **Languages:** C, C++, Embedded C, Python, C#, Assembly x86
+- **Web Technologies:** React.js, Node.js, HTML/CSS, JavaScript, PHP
+- **Databases:** MySQL, Microsoft SQL Server
+- **Special Projects:** Mini C Compiler, OS Scheduler, Network Protocols
+
+### 🎯 Current Goals
+**Building next-generation automotive systems and embedded solutions**
+
+### 🎓 Professional Development
+**Full Embedded Systems Diploma** - Edges For Training (Under Engineer Mohamed Tarek)
+
+### 🌍 Languages
+🇪🇬 **Arabic** (Native) | 🇺🇸 **English** (Professional) | 🇩🇪 **German** (Elementary)
 
 </div>
 
