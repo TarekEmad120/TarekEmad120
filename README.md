@@ -426,13 +426,6 @@ const tarekEmadEldin = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/TarekEmad120/TarekEmad120/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
