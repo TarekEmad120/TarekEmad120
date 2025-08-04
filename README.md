@@ -341,9 +341,6 @@
   <a href="mailto:tarekemad459@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="tel:+201017813265">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
 
 </div>
 
@@ -402,13 +399,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/TarekEmad120/TarekEmad120/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
