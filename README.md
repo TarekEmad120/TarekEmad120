@@ -25,28 +25,6 @@
 - 🌍 Based in **Cairo, Egypt**
 - ⚡ Fun fact: **I can make robots play football and solve mazes!**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarek+Emad!;Software+Developer+💻;Problem+Solver+🚀;Always+Learning+📚;" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TarekEmad120&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TarekEmad120?label=Followers&style=social" alt="GitHub Badge">
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I'm currently working on **embedded systems projects**
-- 🌱 I'm currently learning **advanced microcontroller programming**
-- 👯 I'm looking to collaborate on **embedded systems and IoT projects**
-- 💬 Ask me about **embedded systems, microcontrollers, and electronics**
-- 📫 How to reach me: **tarekmad120@gmail.com**
-- ⚡ Fun fact: **I can make LEDs blink in 10 different programming languages!**
-
 <br><br>
 
 ---
@@ -366,6 +344,9 @@ const tarekEmadEldin = {
   <a href="mailto:tarekemad459@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="tel:+201017813265">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 
 </div>
 
@@ -424,6 +405,13 @@ const tarekEmadEldin = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/TarekEmad120/TarekEmad120/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
