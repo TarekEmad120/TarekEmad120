@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Tarek Emad Eldin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarek+Emad+Eldin!;Computer+Engineering+Fresh+Graduate+🎓;Embedded+Systems+Developer+💻;Automotive+Systems+Enthusiast+🚗;Always+Learning+📚;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarek+Emad+Eldin!;Computer+Engineering+Graduate+🎓;Embedded+Systems+Developer+💻;Automotive+Systems+Enthusiast+🚗;Always+Learning+📚;" />
 </div>
 
 <div align="center">
