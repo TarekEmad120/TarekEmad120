@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Tarek Emad Eldin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarek+Emad+Eldin!;Computer+Engineering+Student+🎓;Embedded+Systems+Developer+💻;Automotive+Systems+Enthusiast+🚗;Always+Learning+📚;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarek+Emad+Eldin!;Computer+Engineering+Fresh+Graduate+🎓;Embedded+Systems+Developer+💻;Automotive+Systems+Enthusiast+🚗;Always+Learning+📚;" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <img align="right" alt="Embedded Systems" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **Computer Engineering** student at **Cairo University** (GPA: 3.0)
+- 🎓 **Computer Engineering** Fresh graduate at **Cairo University** (GPA: 3.0)
 - 🔭 Currently working on **ADAS (Advanced Driver Assistance Systems)** prototypes
 - 🌱 Specializing in **Embedded Systems** and **Automotive Electronics**
 - 🤖 Passionate about **Robotics**, **AUTOSAR**, and **Real-Time Systems**
